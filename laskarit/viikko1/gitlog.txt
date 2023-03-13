@@ -1,0 +1,103 @@
+commit 0b11835cf892cb3e34c01ef30bbb99c5c721d697
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 18:11:40 2023 +0200
+
+    pikku muutokset
+
+ tiedostoja/file2             | 1 -
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit 5706b0196f3fbd6781e6858db1d1f54fe1c5d038
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 18:08:47 2023 +0200
+
+    file1, file2 ja file3 tiedostojen luonti
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 1 +
+ tiedostoja/file3 | 1 +
+ 3 files changed, 3 insertions(+)
+
+commit 277ecc53e86cdf2b1718e607ee7579a62918b466
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:59:00 2023 +0200
+
+    muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit e40d423567297811f0bcc3f2b0541a49eebda6d4
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:57:23 2023 +0200
+
+    tiedosto.txt uudelleenniment├ñ
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b80f920e2fbc94f4fa1bdaa7d9c44cc5c998ed7f
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:56:23 2023 +0200
+
+    toinen.txt poisto
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fbdf08d87c3aaa5e90501892fd90d6914f4b48cd
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:54:48 2023 +0200
+
+    tiedosto.txt muokkaus
+
+ tiedosto.txt | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit bb809576c8458c25b4e584ef66820369d91f8d4c
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:53:30 2023 +0200
+
+    tiedosto.txt muokkaus
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 4ac8f681a22190871b7bfed5b6bd735bd6ad6864
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:51:43 2023 +0200
+
+    kansion stuff ja tiedoston jotain.txt luonti
+
+ stuff/jotain.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 63a301abac6d12b5dcd4e824f34125b7655d2aeb
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:50:26 2023 +0200
+
+    kolmas.txt luonti
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7c82c7f373299ef3d528201b725abef46a11ee1c
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:48:41 2023 +0200
+
+    muutos ja lis├ñys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 28f3d876b60555e896fa7048c58ccb12cbcb8492
+Author: Markus Ahlstedt <kristian.ahlstedt@gmail.com>
+Date:   Mon Mar 13 17:46:06 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
