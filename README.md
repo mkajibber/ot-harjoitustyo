@@ -15,4 +15,5 @@
 
 
 [Vaatimusmäärittely](https://github.com/mkajibber/ot-harjoitustyo/blob/master/dokumentaatio/vaatimuusmaarittely.md)
+
 [Tuntikirjanpito](https://github.com/mkajibber/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
