@@ -35,10 +35,15 @@ Käyttäjän roolissa halutun tehtävänannon valitseminen. Oman vastausehdotuks
 
 ### Jatkokehitysideoita
 Ylläpitäjälle mahdollisuus lisätä tehtäviä olemassaolevaa runkoa hyväksikäyttäen.
+ 
 Salasanat tietokannassa entistä vahvemmin salattuina esim. hyödyntäen scrypt-kirjastoa.
+
 Viimestellympää ja enemmän teemaan nojaavaa grafiikkaa sis. mm. animaatiot.
+
 Lisää käyttäjien välistä vuorovaikuttamista kuten tulostaulut ja reaktiot.
+
 Käyttäjän roolia/vuorovaikuttamisen osuutta salasanan nollauksessa tulisi kasvattaa.
+
 Ylläpitäjän tunnukseen tulisi sisältyä mahdollisuus toimia käyttäjän roolissa. Ylläpitäjän tunnuksilla kirjauduttua aloitusruudusta tulisi voida siirtyä esimerkiksi salasana syöttämällä ylläpitäjän tarvitsemat toiminnallisuudet sisältämään ruutuun.
 
 
