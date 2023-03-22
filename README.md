@@ -9,3 +9,10 @@
 
 [Komentorivi](https://github.com/mkajibber/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
+
+
+### Viikko 2
+
+
+[Vaatimusmäärittely](https://github.com/mkajibber/ot-harjoitustyo/blob/master/dokumentaatio/vaatimuusmaarittely.md)
+[Tuntikirjanpito](https://github.com/mkajibber/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
