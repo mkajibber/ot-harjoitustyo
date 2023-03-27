@@ -6,11 +6,21 @@ Sovelluksen avulla käyttäjä voi kerrata koulumatematiikkaa. Rekisteröityneen
 
 ## Käyttäjät
 
-Käyttäjärooleja on kolme. Ylläpitäjä voi nollata rekisteröityneen käyttäjän salasanan, ja rajata tietylle käyttäjänimelle näytettävät alueet esimerkiksi niin, että peruskoulun 2. luokkalaiselle ei tarjota tehtävänantoja kategoriasta lukion kemian 5. kurssi.
+Käyttäjärooleja on kolme, jotka ovat ylläpitäjä, rekisteröitynyt käyttäjä ja käyttäjä.
 
-Rekisteröitynyt käyttäjä valitsee näytettävät tehtävänannot ja palauttaa vastausehdotuksensa sovelluksen antamiin tehtävänantoihin.
+*Ylläpitäjä*n tunnuksella voi
+   - kirjautua sovellukseen antamalla käyttäjätunnuksen ja salasanan
+   - kirjauduttuaan sovellukseen nollata valitsemansa rekisteröityneen käyttäjän salasanan.
 
-Rekisteröimätön käyttäjä voi ohittaa aloitusruudun yhden kerran ja saada sovellukselta yhden tehtävänannon näkymään johon ei kuitenkaan voida antaa omaa vastausehdotusta.
+
+*Rekisteröitynyt käyttäjä* voi
+   - kirjautua sovellukseen antamalla käyttäjätunnuksen ja salasanan
+   - kirjauduttuaan sovellukseen valita näytettäväksi haluamansa tehtävänannot, ja vastata näytettäviin tehtävänantoihin
+
+
+*Rekisteröimätön käyttäjä* voi
+   - ohittaa aloitusnäkymän saadakseen sovellukselta näytettäväksi yhden satunnaisesti valitun tehtävänannon, johon ei voi kuitenkaan vastata
+   - palata aloitusnäkymään
 
 ## Käyttöliittymäluonnos
 Aloitusruudussa voidaan kirjautua sovellukseen kirjoittamalla käyttäjätunnus ja salasana. Aloitusruudusta voidaan myös siirtyä uuden käyttäjän luomisen ruutuun, jossa voidaan rekisteröidä uusi käyttäjä kirjoittamalla nimi, käyttäjätunnus ja salasana. Aloitusruutu voidaan ohittaa jonka jälkeen sovellus siirtyy vapaamatkustaja-ruutuun.
